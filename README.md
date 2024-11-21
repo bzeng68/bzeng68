@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Bryan Zeng 👋
+
+I'm a CS + Business student at Northeastern. Please reach out!
 
 <!--
 **bzeng68/bzeng68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
