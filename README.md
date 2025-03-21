@@ -1,6 +1,10 @@
-## Hi I'm Bryan Zeng 👋
+## Hey, I'm Bryan Zeng! 👋
 
-I'm a CS + Business student at Northeastern. Please reach out!
+I'm a Masters CS student at Northeastern University with experience in building high-impact, scalable software and solving real-world problems. My background includes full-stack development and cloud infrastructure with a strong foundation in JavaScript, TypeScript, Python, and Java.
+
+📩 Feel free to reach out — always happy to connect!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bzeng68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bzeng68/bzeng68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
