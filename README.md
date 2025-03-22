@@ -1,6 +1,6 @@
 ## Hey, I'm Bryan Zeng! 👋
 
-I'm a MSCS student at Northeastern University with experience in building high-impact, scalable software and solving real-world problems. My background includes full-stack development and cloud infrastructure with a strong foundation in JavaScript, TypeScript, Python, and Java.
+I'm a MSCS student at Northeastern University with experience in building high-impact, scalable software and solving real-world problems. My background includes full-stack development and cloud infrastructure with a strong foundation in JavaScript, TypeScript, Python, Java, and Go.
 
 📩 Feel free to reach out — always happy to connect!
 
