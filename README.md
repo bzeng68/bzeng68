@@ -4,8 +4,6 @@ I'm a Masters CS student at Northeastern University with experience in building 
 
 📩 Feel free to reach out — always happy to connect!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bzeng68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **bzeng68/bzeng68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
