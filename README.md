@@ -2,7 +2,7 @@
 
 I'm a MSCS student at Northeastern University with experience in building high-impact, scalable software and solving real-world problems. My background includes full-stack development and cloud infrastructure with a strong foundation in **JavaScript**, **TypeScript**, **Python**, **Java**, and **Go**.
 
-📩 Feel free to reach out — always happy to connect!
+Feel free to reach out, I'm always happy to connect!
 
 <!--
 **bzeng68/bzeng68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
